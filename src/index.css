@@ -56,7 +56,7 @@
   }
 
   .button-social{
-    @apply flex flex-row  items-center justify-center rounded-full mt-10 space-x-0 ml-150 mb-20 not-sm:ml-0 not-sm:space-x-2 not-sm:w-70;
+    @apply flex flex-row  items-center justify-center rounded-full mt-10 space-x-0 ml-150 mb-20 not-sm:ml-0 not-sm:space-x-2 not-sm:w-100;
   }
 
   .footer-logo{
