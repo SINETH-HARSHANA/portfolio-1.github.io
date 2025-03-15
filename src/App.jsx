@@ -12,7 +12,7 @@ const Profile = () => {
         alt="profile" className="rounded-full"/>
       </div>
       <div className="info">
-        <h2>I am SINETH SIYAMBLAGODA</h2>
+        <h2>I am SINETH SIYAMBALAGODA</h2>
         <p>SOFTWARE ENGINEERING</p>
         <p>Undergraduate of Open University Sri Lanka</p>
         
@@ -32,7 +32,7 @@ export const Footer = () => {
 
   return(
     <footer className="footer">
-      <div className="copyright"><h5>&copy; {currentYear} Sineth Siyamblagoda</h5><br></br></div>
+      <div className="copyright"><h5>&copy; {currentYear} Sineth Siyambalagoda</h5><br></br></div>
       
       <div className='footer-logo'>
 
