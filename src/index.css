@@ -44,7 +44,7 @@
   }
   
   .info{
-    @apply w-1/2 ml-20 p-10 not-sm:w-screen not-sm:justify-center  ;
+    @apply w-1/2 ml-2  not-sm:w-screen not-sm:justify-center  ;
   }
   
   .header{
