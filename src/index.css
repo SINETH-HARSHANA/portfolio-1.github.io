@@ -73,6 +73,10 @@
 
   .copyright{
     @apply text-center text-gray-800 text-clip not-sm:text-lg not-sm:mr-20 ;
+
+    .main{
+      @apply w-screen;
+    }
   }
   
 }
