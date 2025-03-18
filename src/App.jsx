@@ -84,7 +84,7 @@ const App = ()=>{
 
   return(
 
-       <div>
+       <div className="main">
         <Header/>
         <Profile/>
         <Button />
